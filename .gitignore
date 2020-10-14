@@ -24,6 +24,10 @@ nbproject/private/
 build/
 dist/
 
+RetailCoreBankingSystem/nbproject/private/
+RetailCoreBankingSystem/build/
+RetailCoreBankingSystem/dist/
+
 RetailCoreBankingSystem/RetailCoreBankingSystem-ejb/nbproject/private/
 RetailCoreBankingSystem/RetailCoreBankingSystem-ejb/build/
 RetailCoreBankingSystem/RetailCoreBankingSystem-ejb/dist/
