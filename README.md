@@ -1,4 +1,4 @@
-"RetailCoreBankingSystem" 
+RETAIL CORE BANKING SYSTEM
 
 Merlion Bank is a new retail bank that will be opening in Singapore soon. You have been
 asked to develop a Retail Core Banking System (RCBS) for Merlion Bank that will consist
@@ -14,5 +14,8 @@ Card
 5) Insert ATM Card
 6) Change PIN
 7) Enquire Available Balance
+
+=====================================================================================
+This system was designed entirely on NetBeans using JPA and ran on a CLI.
 
 
