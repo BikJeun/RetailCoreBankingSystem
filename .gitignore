@@ -23,21 +23,22 @@
 nbproject/private/
 build/
 dist/
-RetailCoreBankingSystem-ejb/nbproject/private/
-RetailCoreBankingSystem-ejb/build/
-RetailCoreBankingSystem-ejb/dist/
+
+RetailCoreBankingSystem/RetailCoreBankingSystem-ejb/nbproject/private/
+RetailCoreBankingSystem/RetailCoreBankingSystem-ejb/build/
+RetailCoreBankingSystem/RetailCoreBankingSystem-ejb/dist/
 
 AutomatedTellerMachineClient/nbproject/private/
 AutomatedTellerMachineClient/build/
 AutomatedTellerMachineClient/dist/
 
-TellerTerminalClient/nbproject/private/
-TellerTerminalClient/build/
-TellerTerminalClient/dist/
-
 RetailCoreBankingSystemLibrary/nbproject/private/
 RetailCoreBankingSystemLibrary/build/
 RetailCoreBankingSystemLibrary/dist/
+
+TellerTerminalClient/nbproject/private/
+TellerTerminalClient/build/
+TellerTerminalClient/dist/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
