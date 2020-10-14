@@ -1,4 +1,4 @@
-"# RetailCoreBankingSystem" 
+"RetailCoreBankingSystem" 
 
 Merlion Bank is a new retail bank that will be opening in Singapore soon. You have been
 asked to develop a Retail Core Banking System (RCBS) for Merlion Bank that will consist
